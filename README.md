@@ -1,3 +1,4 @@
 Python - More Data Structures: Set, Dictionary
 Python - import & modules
 0x05. Python - Exceptions
+0x06. Python - Classes and Objects
